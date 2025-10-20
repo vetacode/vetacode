@@ -1,4 +1,4 @@
-# Hi, I am Fiqrie, let's connect to grow and success together in Programming 👋  
+# Hello, I’m Fiqrie 👋 Let’s turn our coding journey into a path of growth and success.
 
 ### 🧱 A UCD-Frontend Developer and AI Enthusiast
 
