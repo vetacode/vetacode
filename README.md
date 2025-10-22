@@ -3,6 +3,7 @@ Let’s turn our coding journey into a path of growth and success.
 
 ### UCD Frontend Developer and AI Enthusiast
 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23121011.svg?style=flat&logo=vercel&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/fiqrie-rahman-b0426b34b/))
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/)
 [![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)
@@ -14,8 +15,8 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 - Working on open-source web projects  
 - Learning AI, Advanced React, React Native, Phyton and modern front-end tech  
-- Looking to collaborate on open-source or creative front-end projects  
-- Reach me: vetacode@gmail.com  
+- Looking to collaborate on open-source or creative front-end projects | Future *Head of Software Engineering*
+- Reach me at vetacode@gmail.com  
 - *I love Grinding*  
 
 ---
