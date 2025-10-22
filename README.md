@@ -3,7 +3,8 @@ Let’s turn our coding journey into a path of growth and success.
 
 ### UCD Frontend Developer and AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23121011.svg?style=flat&logo=vercel&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/fiqrie-rahman-b0426b34b/))
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/)
 [![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)
