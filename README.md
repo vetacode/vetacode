@@ -59,7 +59,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 ## Shields.io badges:
 
 ![Stage 1](https://img.shields.io/badge/Stage%201%20Completed-%20✅-brightgreen)
-![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-blue)
+![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-brightgreen)
 
 ## Achievements
 
@@ -71,7 +71,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 | 🏁 Stage 1: Foundation | ✅ | Completed on Oct 2025 |
 
 ## Stage 1: Foundation
-✅ Completed — All goals verified.
+All goals verified.
 
 - Profile customized and live
 - Git mastered (push, pull, commit)
