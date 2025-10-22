@@ -56,12 +56,12 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 ![Vetacode's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetacode&theme=tokyo-night)
 
-## shields.io badges:
+## Shields.io badges:
 
 ![Stage 1](https://img.shields.io/badge/Stage%201%20Completed-%20✅-brightgreen)
 ![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-blue)
 
-## 🏅 Achievements
+## Achievements
 
 | Badge | Status | Description |
 |--------|---------|-------------|
@@ -70,7 +70,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 | 🟦 Version Control Ready | ✅ | Confident using Git and GitHub |
 | 🏁 Stage 1: Foundation | ✅ | Completed on Oct 2025 |
 
-## Stage 1: Foundation ![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
+## Stage 1: Foundation
 ✅ Completed — All goals verified.
 
 - Profile customized and live
@@ -84,4 +84,4 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 ## GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=vetacode)
 
-
+![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
