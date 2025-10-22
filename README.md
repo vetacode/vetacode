@@ -56,6 +56,32 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 ![Vetacode's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetacode&theme=tokyo-night)
 
+## shields.io badges:
 
+![Stage 1](https://img.shields.io/badge/Stage%201%20Completed-%20✅-brightgreen)
+![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-blue)
+
+## 🏅 Achievements
+
+| Badge | Status | Description |
+|--------|---------|-------------|
+| 🟩 Consistent Learner | ✅ | Maintained daily commits streak |
+| 🟨 Readable Repos | ✅ | All projects have README + demo links |
+| 🟦 Version Control Ready | ✅ | Confident using Git and GitHub |
+| 🏁 Stage 1: Foundation | ✅ | Completed on Oct 2025 |
+
+## Stage 1: Foundation ![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
+✅ Completed — All goals verified.
+
+- Profile customized and live
+- Git mastered (push, pull, commit)
+- 3+ projects published with live demos
+- README documentation consistent
+- Regular commit activity established
+
+![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge)
+
+## GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=vetacode)
 
 
