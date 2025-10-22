@@ -82,6 +82,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 ![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge)
 
 ## GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=vetacode)
+
+<img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=gruvbox&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
 
 ![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
