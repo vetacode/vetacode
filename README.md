@@ -68,10 +68,6 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 | 🟦 Version Control Ready | Confident using Git and GitHub |
 | 🏁 Stage 1: Foundation | Completed on Oct 2025 |
 
-## Education Certificates
-
-![University of Minnesota - User Interface Design Certificate](https://github.com/vetacode/achievements/blob/4a8baeb2f4ba24e6f2a1d0affc9f17ea24044112/assets/UI-certificate-minnesota.png)
-
 
 ## Stage 1: Foundation
 
