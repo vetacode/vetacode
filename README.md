@@ -43,11 +43,10 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vetacode&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetacode&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vetacode&theme=tokyonight" />
   <img height="150em" src="https://streak-stats.demolab.com?user=vetacode&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetacode&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=vetacode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
