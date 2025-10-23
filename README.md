@@ -56,28 +56,25 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 ![Vetacode's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetacode&theme=tokyo-night)
 
-## Shields.io badges:
-
-![Stage 1](https://img.shields.io/badge/Stage%201%20Completed-%20✅-brightgreen)
-![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-brightgreen)
-
 ## Achievements
 
-| Badge | Status | Description |
-|--------|---------|-------------|
-| [![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.credly.com/badges/7490c39e-f58e-4251-a320-42cc49637fa0/public_url) | ✅ | Front-End Developer Professional Certificate by Meta Facebook  |
-| [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/3b8fa04b-2114-4afa-a140-99cc83c1cbda/public_url) | ✅ | AI Essentials Professional Certificate by Google |
-| [![University of Minnesota](https://img.shields.io/badge/University%20of%20Minnesota-Certified-7A0019?style=for-the-badge&logo=google-classroom&logoColor=FFCC33)](https://coursera.org/verify/specialization/B2LS0E2S3N8V) | ✅ | User Interface Design Professional Certificate on Coursera |
-| 🟩 Consistent Learner | ✅ | Maintained daily commits streak |
-| 🟨 Readable Repos | ✅ | All projects have README + demo links |
-| 🟦 Version Control Ready | ✅ | Confident using Git and GitHub |
-| 🏁 Stage 1: Foundation | ✅ | Completed on Oct 2025 |
+| Badge | Description |
+|--------|----------------------|
+| [![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.credly.com/badges/7490c39e-f58e-4251-a320-42cc49637fa0/public_url) | Front-End Developer Professional Certificate by Meta Facebook  |
+| [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/3b8fa04b-2114-4afa-a140-99cc83c1cbda/public_url) | I Essentials Professional Certificate by Google |
+| [![University of Minnesota](https://img.shields.io/badge/University%20of%20Minnesota-Certified-7A0019?style=for-the-badge&logo=google-classroom&logoColor=FFCC33)](https://coursera.org/verify/specialization/B2LS0E2S3N8V) | User Interface Design Specialization Certificate on Coursera |
+| ![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-brightgreen)| Maintained daily commits streak |
+| 🟨 Readable Repos | All projects have README + demo links |
+| 🟦 Version Control Ready | Confident using Git and GitHub |
+| 🏁 Stage 1: Foundation | Completed on Oct 2025 |
 
-## Education Certificates Graduation
+## Education Certificates
 
+![University of Minnesota - User Interface Design Certificate](https://github.com/vetacode/achievements/blob/4a8baeb2f4ba24e6f2a1d0affc9f17ea24044112/assets/UI-certificate-minnesota.png)
 
 
 ## Stage 1: Foundation
+
 All goals verified.
 
 - Profile customized and live
