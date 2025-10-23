@@ -65,10 +65,17 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 | Badge | Status | Description |
 |--------|---------|-------------|
+| [![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.credly.com/badges/7490c39e-f58e-4251-a320-42cc49637fa0/public_url) | ✅ | Front-End Developer Professional Certificate by Meta Facebook  |
+| [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/3b8fa04b-2114-4afa-a140-99cc83c1cbda/public_url) | ✅ | AI Essentials Professional Certificate by Google |
+| [![University of Minnesota](https://img.shields.io/badge/University%20of%20Minnesota-Certified-7A0019?style=for-the-badge&logo=google-classroom&logoColor=FFCC33)](https://coursera.org/verify/specialization/B2LS0E2S3N8V) | ✅ | User Interface Design Professional Certificate on Coursera |
 | 🟩 Consistent Learner | ✅ | Maintained daily commits streak |
 | 🟨 Readable Repos | ✅ | All projects have README + demo links |
 | 🟦 Version Control Ready | ✅ | Confident using Git and GitHub |
 | 🏁 Stage 1: Foundation | ✅ | Completed on Oct 2025 |
+
+## Education Certificates Graduation
+
+
 
 ## Stage 1: Foundation
 All goals verified.
@@ -79,10 +86,9 @@ All goals verified.
 - README documentation consistent
 - Regular commit activity established
 
-![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge) 
+![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
 
 ## GitHub Profile Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=gruvbox&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-
-![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
