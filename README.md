@@ -59,8 +59,8 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 | Badge | Description |
 |--------|----------------------|
-| [![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.credly.com/badges/7490c39e-f58e-4251-a320-42cc49637fa0/public_url) | Front-End Developer Professional Certificate by Meta Facebook  |
-| [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/3b8fa04b-2114-4afa-a140-99cc83c1cbda/public_url) | I Essentials Professional Certificate by Google |
+| [![Meta](https://img.shields.io/badge/Meta-Certified-0467DF?style=for-the-badge&logo=meta&logoColor=blue)](https://www.credly.com/badges/7490c39e-f58e-4251-a320-42cc49637fa0/public_url) | Front-End Developer Professional Certificate by Meta Facebook  |
+| [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=green)](https://www.credly.com/badges/3b8fa04b-2114-4afa-a140-99cc83c1cbda/public_url) | I Essentials Professional Certificate by Google |
 | [![University of Minnesota](https://img.shields.io/badge/University%20of%20Minnesota-Certified-7A0019?style=for-the-badge&logo=google-classroom&logoColor=FFCC33)](https://coursera.org/verify/specialization/B2LS0E2S3N8V) | User Interface Design Specialization Certificate on Coursera |
 | ![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-%20✅-brightgreen)| Maintained daily commits streak |
 | 🟨 Readable Repos | All projects have README + demo links |
