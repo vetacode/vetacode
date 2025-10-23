@@ -18,7 +18,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 - Learning AI, Advanced React, React Native, Phyton and modern front-end tech  
 - Looking to collaborate on open-source or creative front-end projects | Future *Head of Software Engineer*
 - Reach me at vetacode@gmail.com  
-- *I love Grinding*  
+- *I love The Process*  
 
 ---
 
