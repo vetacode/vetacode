@@ -3,11 +3,13 @@ Let’s turn our coding journey into a path of growth and success.
 
 ### UCD Frontend Developer and AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fiqrie-vetacode/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/)
-[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)<p align="left">
+  <a href="https://linkedin.com/in/fiqrie-vetacode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vetacode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vetacode" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/vetacode" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -61,6 +63,11 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 ![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge) 
 ![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
 
+
 ## GitHub Profile Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=gruvbox&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
