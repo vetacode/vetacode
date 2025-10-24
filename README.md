@@ -1,9 +1,9 @@
 # Hi Coders!
 Let’s turn our coding journey into a path of growth and success.
 
-### UCD Frontend Developer and AI Enthusiast
-
-[![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)<p align="left">
+## UCD Frontend Developer and AI Enthusiast 
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
+<p align="left">
   <a href="https://linkedin.com/in/fiqrie-vetacode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vetacode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vetacode" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" /></a>
@@ -13,17 +13,18 @@ Let’s turn our coding journey into a path of growth and success.
 
 ---
 
-### About Me
+## About Me
+
 I am a **Frontend Developer** with User Design Focus and a strong foundation in UI/UX, with a decade background in technical and commercial leadership. Specialized in building user-centered web applications using React, TypeScript, and Tailwind CSS, with a deep understanding of design principles and precision execution. 
 
 - Working on open-source web projects  
-- Learning AI, Advanced React, React Native, Phyton and modern front-end tech  
-- Looking to collaborate on open-source or creative front-end projects | Future *Head of Software Engineer*
-- *I love The Process*  
+- Learning AI, Advanced React, React Native, Phyton and modern frontend tech  
+- Looking to collaborate on open-source or creative frontend projects | Future *Head of Software Engineer*
+- ### I love The Process  
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 |Group|Tech Stack|
 |--------|----------------------|
