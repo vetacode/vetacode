@@ -23,7 +23,7 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 
 ---
 
-<h3 align="center">💡 <i>Every line of code is a brick, Keep building.</i> 💡</h3>
+<h3 align="center">💎 <i>Every line of code is a brick, Keep building.</i> 💎</h3>
 
 ---
 
@@ -72,5 +72,9 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+<h3 align="center">💡 <i>Keep shipping. Progress hides in small commits.</i> 💡</h4>
 
 ---
