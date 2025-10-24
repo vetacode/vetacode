@@ -58,17 +58,6 @@ I am a **Frontend Developer** with User Design Focus and a strong foundation in 
 | [![Consistent Learner](https://img.shields.io/badge/Consistent%20Learner-Achieved-2E8B57?style=for-the-badge&logo=github&logoColor=white)](#)| Maintained daily commits streak |
 | [![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-Achieved-1E90FF?style=for-the-badge&logo=react&logoColor=white)](#) | Specializing in React, TypeScript, TailwindCSS & Framer Motion for excellent UI and UX |
 
-
-## Stage 1: Foundation
-
-All goals verified.
-
-- Profile customized and live
-- Git mastered (push, pull, commit)
-- 3+ projects published with live demos
-- README documentation consistent
-- Regular commit activity established
-
 ![Progress](https://img.shields.io/badge/Stage%201%20Progress-100%25-brightgreen?style=for-the-badge) 
 ![Badge](https://img.shields.io/badge/🏁_Foundation_Complete-brightgreen?style=for-the-badge)
 
