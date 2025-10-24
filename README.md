@@ -18,9 +18,12 @@ Let’s turn our coding journey into a path of growth and success.
 I am a **Frontend Developer** with User Design Focus and a strong foundation in UI/UX, with a decade background in technical and commercial leadership. Specialized in building user-centered web applications using React, TypeScript, and Tailwind CSS, with a deep understanding of design principles and precision execution. 
 
 - Working on open-source web projects  
-- Learning AI, Advanced React, React Native, Phyton and modern frontend tech  
+- Learning AI, Advanced React, React Native, Python, and modern frontend tech  
 - Looking to collaborate on open-source or creative frontend projects | Future *Head of Software Engineer*
-- ### I love The Process  
+
+---
+
+<h3 align="center">💡 <i>Every line of code is a brick, Keep building.</i> 💡</h3>
 
 ---
 
