@@ -1,4 +1,4 @@
-# Hi Coders!
+# Hi Hustling Coders!
 Let’s turn our coding journey into a path of growth and success.
 
 ## UCD Frontend Developer and AI Enthusiast 
