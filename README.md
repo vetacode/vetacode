@@ -1,5 +1,5 @@
 # Hi Hustling Coders!
-Let’s turn our coding journey into a path of growth and success, together!
+Let’s turn our coding journey into a path of growth and success!
 
 ## UCD Frontend Developer and AI Enthusiast 
 [![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
