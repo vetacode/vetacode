@@ -23,12 +23,6 @@ Let’s turn our coding journey into a path of growth and success!
 - Learning AI, Advanced React, React Native, Python, and modern frontend tech
 - Looking to collaborate on open-source or creative frontend projects | Future _Head of Software Engineer_
 
----
-
-<h3 align="center">💎 <i>Every line of code is a brick, Keep building.</i> 💎</h3>
-
----
-
 ## Tech Stack & Tools
 
 | Group                      | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -59,3 +53,9 @@ Let’s turn our coding journey into a path of growth and success!
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vetacode&theme=tokyonight&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+<h3 align="center">💎 <i>Every line of code is a brick, Keep building.</i> 💎</h3>
+
+---
