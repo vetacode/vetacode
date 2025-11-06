@@ -56,6 +56,6 @@ Let’s turn our coding journey into a path of growth and success!
 
 ---
 
-<h3 align="center">💎 <i>Every line of code is a brick, Keep building.</i> 💎</h3>
+<h3 align="center">💎 <i>Every line of code is a brick, Keep building your Empire.</i> 💎</h3>
 
 ---
