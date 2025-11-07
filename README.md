@@ -62,7 +62,7 @@ I refuse to be held back by doubt, from others or from myself. It’s easy to fa
 
 I work harder on improving myself than on any single project, because who I am becoming as an engineer defines the quality of everything I build. I know that the biggest risk is not taking one, progress comes from curiosity, experimentation, and courage.
 
-The best time to start was twenty years ago. The second best time is now. Every line of code, every failure, every late-night debug brings me closer to becoming the best software engineer I can be. One problem, one project, one breakthrough at a time.
+The best time to start was twenty years ago. The second best time is now. Every line of code, every failure, every late night debug brings me closer to becoming the best software engineer I can be. One problem, one project, one breakthrough at a time.
 
 ---
 
