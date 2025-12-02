@@ -2,7 +2,7 @@
 
 Let’s turn our coding journey into a path of growth and success!
 
-## UCD Frontend Developer and AI Enthusiast
+## Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio%20-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiqrie-portfolio.vercel.app/)
 
@@ -17,7 +17,7 @@ Let’s turn our coding journey into a path of growth and success!
 
 ## About Me
 
-**Frontend Developer** with User Design Focus and a strong foundation in UI/UX, with a decade background in technical and commercial leadership. Specialized in building user centered web applications using React.js, React Native, TypeScript, and Tailwind CSS, with a deep understanding of design principles and precision execution.
+**Software Developer** with User Design Focus and a strong foundation in UI/UX, with a decade background in technical and commercial leadership. Specialized in building user centered web applications using React.js, React Native, TypeScript, and Tailwind CSS, with a deep understanding of design principles and precision execution.
 
 - Working on open source web projects
 - Learning AI, JavaScript, React, React Native, Python, and modern frontend tech
