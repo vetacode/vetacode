@@ -11,6 +11,8 @@ Let’s turn our coding journey into a path of growth and success!
   <a href="mailto:vetacode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vetacode" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" /></a>
    <a href="https://x.com/vetacode" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white" /></a>
+   <a href="https://medium.com/@vetacode" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" /></a>
+  
 </p>
 
 ---
