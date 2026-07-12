@@ -21,7 +21,7 @@ Let’s turn our coding journey into a path of growth and achievements!
 
 - Working on open source web projects
 - Learning AI, JavaScript, TypeScript, React, React Native, Python, and modern frontend tech
-- Looking to collaborate on open-source or creative frontend projects | Future _Head of Software Engineer_
+- Looking to collaborate on open-source or creative frontend projects
 
 ## Tech Stack & Tools
 
